@@ -33,7 +33,7 @@ python portfolio.py
 7. View the portfolio summary in the terminal and CSV file.
 
 ### Demo Video
-[Watch the Stock Portfolio Tracker Demo](https://drive.google.com/file/d/1uG8qG6IqApn6iCWQGzbP9fw0PlViepMc/view?usp=drivesdk)
-
+[Watch the Stock Portfolio Tracker Demo]
+(https://drive.google.com/file/d/1jNbd2-ZVMA04QH8PZdiNffC_OgqqZ9kg/view?usp=drivesdk)
 ### Author
 Ranjith M
